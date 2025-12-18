@@ -10,7 +10,7 @@
 | 01-10-2025 | 26       | 0142 | Samtale med udredningssigte                                       | 1.446,25 |
 | 01-10-2025 | 26       | 0143 | Klinisk psykiatrisk observation                                   | 1.223,47 |
 | 01-10-2025 | 26       | 0144 | Netværksmøde i udredningsforløb                                   | 2.225,02 |
-| 01-10-2025 | 26       | 2300 | Skriftlig tilbagemelding                                          | 968,64   |
+| 01-10-2025 | 26       | asdas0 | Skriftlig tilbagemelding                                          | 968,64   |
 | 01-10-2025 | 26       | 0145 | Medicinsk samtale/behandling                                      | 1.251,57 |
 | 01-10-2025 | 26       | 0150 | Psykoterapeutisk behandling                                       | 1.668,76 |
 | 01-10-2025 | 26       | 0151 | Psykoterapeutisk behandling patient og forældre/pårørende         | 1.891,26 |
