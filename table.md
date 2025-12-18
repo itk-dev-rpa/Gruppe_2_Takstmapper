@@ -2,7 +2,7 @@
 
 | gyldig_fra | mappe_id | kode | ydelse                                                            | beloeb   |
 | :--------- | :------- | :--- | :---------------------------------------------------------------- | :------- |
-| 01-10-2025 | 26       | ahahaha | Vurdering af patient ved enkeltstående konsultation               | 1.684,40 |
+| 01-10-2025 | 26       | Hej Kristiana | Vurdering af patient ved enkeltstående konsultation               | 1.684,40 |
 | 01-10-2025 | 26       | 0109 | Faglig konferering pr. video med prak. læge med deltagelse af pt. | 1.946,90 |
 | 01-10-2025 | 26       | 0205 | Faglig konferering med anden lægefaglig samarbejdspartner         | 449,28   |
 | 01-10-2025 | 26       | 0135 | Visitation af henviste patienter                                  | 554,69   |
